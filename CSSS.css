@@ -1,0 +1,161 @@
+.box {
+    width: 80%;
+    height: 800px;
+    background: black;
+    margin: 0 auto;
+}
+.box .space1{
+    width: 100%;
+    height: 3.5%;
+    margin: 0;
+}
+.box .space{
+    width: 100%;
+    height: 3px;
+    background: orange;
+    margin: 0;
+}
+.contact img{
+    width: 30%;
+    height: 100%;
+}
+.contact .phone i{
+    margin: 75%;
+    background-color: orange;
+    font-size: 30px;
+}
+.box .contact{
+    width: 100%;
+    height: 7%;
+    /* background: cadetblue; */
+}
+.top button{
+    margin: 5%;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: white;}
+.contact .mail{
+    width:25%;
+    height: 100%;
+    background: rgb(228, 228, 228);
+    margin: 0;
+    float: left;
+}
+.contact .phone{
+    width:50%;
+    height: 100%;
+    background: rgb(228, 228, 228);
+    margin: 0;
+    float: left;
+}
+.box .demo{
+    width: 100%;
+    height: 70.5%;
+    /* background: peachpuff; */
+    margin: 0;
+}
+.mail a{
+    color: rgb(71, 61, 61);
+}
+ h1{
+    color: white;
+    margin-left: 25%;
+}
+p{
+    color: white;
+    font-size: 21px;
+    margin: 10px;
+    font-weight: bold   ;
+}
+.demo .left{
+    width: 50%;
+    height: 100%;
+    /* background:yellow; */
+    margin: 0em;
+    float: left;
+}
+.left .top{
+    width: 100%;
+    height: 50%;
+    /* background: darkgreen; */
+}
+.left .butom{
+    width: 100%;
+    height: 50%;
+    /* background: blue; */
+    margin: 0;
+}
+.butom img{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.butom .im{
+    width: 33%;
+    height: 100%;
+    float: left;
+    margin:0 0.1%;
+    /* background: red; */
+}
+.demo .right{
+    width: 50%;
+    height: 100%;
+    float: left;
+    /* background: rebeccapurple; */
+}
+.right img{
+    width: 100%;
+    height: 100%;
+}
+.box .text{
+    width: 100%;
+    height: 18%;
+    background: rgb(43, 44, 43);
+    margin: 0;
+}
+.text .line{
+    width: 15%;
+    height: 100%;
+    /* background: grey; */
+    float: left;
+    margin-right: 0.5%;
+}
+.text .textt{
+    width: 84.5%;
+    height: 100%;
+    /* background: hotpink; */
+    float: left;
+}
+.line .t{
+    width: 60%;
+    height: 60%;
+    /* background: yellow; */;
+    margin-left: 20%;
+}
+.line .d{
+    width: 100%;
+    height: 40%;
+    /* background: blue; */
+    margin: 0;
+}
+.t img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.d button{
+    width: 90%;
+    height: 90%;
+    margin:2px 2px 0 5px;
+    background:grey;
+    color: orange;
+}
+.textt P{
+    color: rgb(236, 186, 92);
+    font-weight: bold;
+    margin:50px 40px 0 25%;
+    font-size: 35   px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    ;
+}
